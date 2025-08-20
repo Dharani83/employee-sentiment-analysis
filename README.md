@@ -41,7 +41,29 @@ Predictive modeling of sentiment trends.
 - **Reports**: output/labeled.csv → sentiment-labeled dataset, output/flight_risks.csv → list of high-risk employees, output/model_summary.txt → regression performance .
 - **Findings**: Ranking of top positive & negative employees , Flight risk employee list with names & emails.
 
-Model results: R² = –8.45, RMSE ≈ 0.034
+### ✅ Results Summary
+- **Top 3 Positive Employees**
+  - lydia.delgado@enron.com (score: 6)  
+  - patti.thompson@enron.com (score: 6)  
+  - kayne.coulter@enron.com (score: 5)
+
+- **Top 3 Negative Employees**
+  - bobette.riner@ipgdirect.com (score: 1)  
+  - johnny.palmer@enron.com (score: 2)  
+  - eric.bass@enron.com (score: 3)
+
+- **Flight Risk Employees (≥ 4 negatives in 30 days)**  
+  bobette.riner@ipgdirect.com, eric.bass@enron.com, john.arnold@enron.com, johnny.palmer@enron.com, lydia.delgado@enron.com, patti.thompson@enron.com, rhonda.denton@enron.com, sally.beck@enron.com
+
+- **EDA Insights**
+  - ~65% positive, ~20% neutral, ~15% negative.  
+  - Negativity spiked in March.  
+  - Word count correlated with message polarity.
+
+- **Model Performance**
+  - Linear Regression → R² = –8.45, RMSE ≈ 0.034  
+  - Interpretation: weak fit → advanced NLP models needed.
+
 
 ## 📂 Repo Structure
 LLM_Final_Assessment_Dharani/
