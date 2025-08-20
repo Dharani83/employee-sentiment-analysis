@@ -83,6 +83,14 @@ LLM_Final_Assessment_Dharani/
 │── Dharani kousalya penta-Final_Report_Employee_Sentiment.docx
 │── requirements.txt               # Dependencies
 
+## Reproducibility Instructions
+
+git clone https://github.com/Dharani83/employee-sentiment-analysis.git
+cd employee-sentiment-analysis
+pip install -r requirements.txt
+jupyter notebook Employee_Sentiment.ipynb
+
+
 ## Limitations and Next steps
 
 1.TextBlob lacks nuance (cannot detect sarcasm, subtle tones).
