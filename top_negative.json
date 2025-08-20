@@ -1,0 +1,410 @@
+[
+  {
+    "month": "2010-01-01",
+    "top_negative": [
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2010-02-01",
+    "top_negative": [
+      {
+        "from": "lydia.delgado@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "patti.thompson@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "sally.beck@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2010-03-01",
+    "top_negative": [
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2010-04-01",
+    "top_negative": [
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "patti.thompson@enron.com",
+        "monthly_score": 2
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 3
+      }
+    ]
+  },
+  {
+    "month": "2010-05-01",
+    "top_negative": [
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "john.arnold@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2010-06-01",
+    "top_negative": [
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2010-07-01",
+    "top_negative": [
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": -1
+      },
+      {
+        "from": "sally.beck@enron.com",
+        "monthly_score": -1
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 0
+      }
+    ]
+  },
+  {
+    "month": "2010-08-01",
+    "top_negative": [
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "patti.thompson@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2010-09-01",
+    "top_negative": [
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 2
+      },
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2010-10-01",
+    "top_negative": [
+      {
+        "from": "sally.beck@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2010-11-01",
+    "top_negative": [
+      {
+        "from": "john.arnold@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2010-12-01",
+    "top_negative": [
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 0
+      }
+    ]
+  },
+  {
+    "month": "2011-01-01",
+    "top_negative": [
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": -1
+      },
+      {
+        "from": "john.arnold@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "patti.thompson@enron.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2011-02-01",
+    "top_negative": [
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2011-03-01",
+    "top_negative": [
+      {
+        "from": "sally.beck@enron.com",
+        "monthly_score": -2
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2011-04-01",
+    "top_negative": [
+      {
+        "from": "john.arnold@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "patti.thompson@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2011-05-01",
+    "top_negative": [
+      {
+        "from": "patti.thompson@enron.com",
+        "monthly_score": -1
+      },
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2011-06-01",
+    "top_negative": [
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2011-07-01",
+    "top_negative": [
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "lydia.delgado@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2011-08-01",
+    "top_negative": [
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "kayne.coulter@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2011-09-01",
+    "top_negative": [
+      {
+        "from": "john.arnold@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "sally.beck@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 2
+      }
+    ]
+  },
+  {
+    "month": "2011-10-01",
+    "top_negative": [
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 0
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 0
+      }
+    ]
+  },
+  {
+    "month": "2011-11-01",
+    "top_negative": [
+      {
+        "from": "don.baughman@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "rhonda.denton@enron.com",
+        "monthly_score": 1
+      }
+    ]
+  },
+  {
+    "month": "2011-12-01",
+    "top_negative": [
+      {
+        "from": "bobette.riner@ipgdirect.com",
+        "monthly_score": 1
+      },
+      {
+        "from": "johnny.palmer@enron.com",
+        "monthly_score": 2
+      },
+      {
+        "from": "eric.bass@enron.com",
+        "monthly_score": 3
+      }
+    ]
+  }
+]
